@@ -1,4 +1,4 @@
-<h1 align="center">Salut 👋, je suis Romain Michaux</h1>
+<h1 align="center">Bonjour, je suis Romain Michaux</h1>
 <h3 align="center">Étudiant en Master IA & Data Science | Développeur d'applications intelligentes et interactives</h3>
 
 <p align="center">
