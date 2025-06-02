@@ -1,17 +1,8 @@
-## Hi there 👋
+<h3 align="center">A passionate frontend developer from India</h3>
 
-🇫🇷 GitHub Bio (FR)
-- 🎓 Étudiant en Master Data Science & Intelligence Artificielle à Supinfo Lille
-- 💡 Passionné par l’IA, le machine learning appliqué, la visualisation de données et l’apprentissage par renforcement
-- 🧠 Projets récents : prédiction de points de vie de Pokémon, classification d’hymnes nationaux par NLP, agent DQN sur environnement custom, et dashboard web interactif avec Vue.js
-- ⚙️ Compétences : Python, scikit-learn, TensorFlow, PyTorch, RL, NLP, React/Vue, SQL/HQL, DevOps (Kubernetes, Docker)
-- 🚗 Créateur d’un GPS intelligent en React Native avec navigation étape par étape, recalcul d’itinéraire, alertes en temps réel et suivi GPS
-- 🛠 En veille constante sur les outils IA, les environnements interactifs et les projets visuellement engageants (Pygame, CarRacing, etc.)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-🇬🇧 GitHub Bio (EN)
-- 🎓 MSc student in Data Science & Artificial Intelligence (Supinfo Lille, France)
-- 💡 Passionate about AI, applied ML, data visualization and reinforcement learning
-- 🧪 Recent projects: HP prediction on Pokémon dataset, national anthems NLP clustering, custom DQN agent in Pygame, interactive dashboards in Vue.js
-- ⚙️ Skills: Python, scikit-learn, TensorFlow, PyTorch, RL, NLP, React/Vue, SQL/HQL, DevOps (Kubernetes, Docker)
-- 🚗 Building an advanced GPS app with real-time navigation, route alerts, voice assistant and step detection
-- 🔍 Always exploring new ways to build smart, visual and interactive AI experiences
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
