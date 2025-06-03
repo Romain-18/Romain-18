@@ -1,9 +1,9 @@
 <h1 align="center">Bonjour, je suis Romain Michaux</h1>
-<h3 align="center">Étudiant en Master IA & Data Science | Développeur d'applications intelligentes et interactives</h3>
+<h3 align="center">🎓 Étudiant en Master Intelligence Artificielle & Data Science | Passionné par l’Intelligence Artificiel appliquée</h3>
 
 <p align="center">
-💡 Passionné par l’intelligence artificielle appliquée, l’apprentissage par renforcement, la data visualisation et le développement web et mobile moderne.  
-🚀 Je construis des environnements visuels pour agents RL, des dashboards interactifs, des modèles prédictifs et une application GPS intelligente avec navigation étape par étape.
+💡 Je m'intéresse à l'IA sous toutes ses formes, avec un goût particulier pour l'apprentissage par renforcement, la data visualisation et les systèmes intelligents.  
+🚀 Je conçois des environnements interactifs pour agents RL, développe des modèles prédictifs robustes, crée des dashboards dynamiques et explore la vision par ordinateur.
 </p>
 
 ---
@@ -17,7 +17,7 @@
 
 ---
 
-<h3 align="left">⚙️ Langages et outils maîtrisés :</h3>
+<h3 align="left">⚙️ Compétences techniques :</h3>
 <p align="left">
   <!-- Python & Data Science -->
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
@@ -48,13 +48,14 @@
 
 <h3 align="left">🔥 Projets récents :</h3>
 <ul>
-  <li>📱 GPS mobile intelligent (React Native + Google Maps API + navigation dynamique)</li>
-  <li>🎮 Environnement Pygame pour agent DQN avec feedback visuel et logique RL</li>
-  <li>🧬 Prédiction des HP Pokémon avec pipelines ML, GridSearchCV, analyse des résidus</li>
-  <li>🗺️ Clustering NLP des hymnes nationaux avec vectorisation TF-IDF, PCA et visualisations</li>
-  <li>🔎 Reconnaissance et lecture de plaque d'immatriculation avec la computer vision</li>
+  <li>🎮 Environnement visuel interactif pour agent DQN (Pygame + PyTorch)</li>
+  <li>📊 Prédiction de ventes & analyse des résidus sur données retail (ML avancé)</li>
+  <li>🗺️ Clustering de textes d’hymnes nationaux (TF-IDF, PCA, K-means, visualisation)</li>
+  <li>🔍 Détection de plaques d’immatriculation en temps réel (OpenCV + YOLO)</li>
+  <li>📱 GPS mobile intelligent avec navigation dynamique (React Native + Google Maps)</li>
+  <li>💡 Et bien d'autres projets à venir !</li>
 </ul>
 
 ---
 
-<h3 align="center">Merci de ta visite !</h3>
+<h3 align="center">Merci pour votre visite et votre intérêt ☺️</h3>
