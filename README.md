@@ -12,7 +12,7 @@
 <p align="left">
   <a href="mailto:romain.michaux@example.com">📧 Email</a> •
   <a href="https://www.linkedin.com/in/romain-michaux" target="_blank">🔗 LinkedIn</a> •
-  <a href="https://romain-portfolio.com" target="_blank">🌐 Portfolio</a>
+  <a href="https://www.michaux-romain.com" target="_blank">🌐 Portfolio</a>
 </p>
 
 ---
