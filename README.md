@@ -52,9 +52,9 @@
   <li>🎮 Environnement Pygame pour agent DQN avec feedback visuel et logique RL</li>
   <li>🧬 Prédiction des HP Pokémon avec pipelines ML, GridSearchCV, analyse des résidus</li>
   <li>🗺️ Clustering NLP des hymnes nationaux avec vectorisation TF-IDF, PCA et visualisations</li>
-  <li>📊 Dashboard Vue.js + Quasar avec Google OAuth et export CSV/PDF</li>
+  <li>🔎 Reconnaissance et lecture de plaque d'immatriculation avec la computer vision</li>
 </ul>
 
 ---
 
-<h3 align="center">Merci de ta visite 👀 ! N'hésite pas à explorer mes repos 👇</h3>
+<h3 align="center">Merci de ta visite !</h3>
