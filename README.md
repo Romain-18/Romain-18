@@ -2,7 +2,7 @@
 <h3 align="center">🎓 Étudiant en Master Intelligence Artificielle & Data Science | Passionné par l’Intelligence Artificiel appliquée</h3>
 
 <p align="center">
-💡 Je m'intéresse à l'IA sous toutes ses formes, avec un goût particulier pour l'apprentissage par renforcement, la data visualisation et les systèmes intelligents.  
+💡 Je m'intéresse à l'IA sous toutes ses formes.  
 🚀 Je conçois des environnements interactifs pour agents RL, développe des modèles prédictifs robustes, crée des dashboards dynamiques et explore la vision par ordinateur.
 </p>
 
